@@ -1,0 +1,163 @@
+1
+00:00:00,512 --> 00:00:04,608
+Listen to the conversations conversation 1
+
+2
+00:00:05,376 --> 00:00:07,936
+Is that man over there David Egan
+
+3
+00:00:08,192 --> 00:00:14,080
+No that's George that's a very Dave's not here today
+
+4
+00:00:14,336 --> 00:00:15,872
+Really where is he from
+
+5
+00:00:16,128 --> 00:00:17,664
+He from Marseille in France
+
+6
+00:00:20,224 --> 00:00:21,760
+Conversation to
+
+7
+00:00:22,528 --> 00:00:28,672
+Who's that over there her name is Sonia Pereira what did she do they say she's an artist
+
+8
+00:00:28,928 --> 00:00:32,768
+She from around here know she's from South Paulo
+
+9
+00:00:33,024 --> 00:00:34,816
+So she's from Brazil
+
+10
+00:00:37,376 --> 00:00:39,168
+Conversation 3
+
+11
+00:00:39,936 --> 00:00:41,472
+Are you from around here
+
+12
+00:00:41,728 --> 00:00:47,872
+No I'm leaving Miami actually the name is Mark Mark zaleski
+
+13
+00:00:48,128 --> 00:00:49,152
+What do you do
+
+14
+00:00:49,408 --> 00:00:55,296
+I'm an interpreter I work for is BTW you're not from Miami originally though are you
+
+15
+00:00:55,552 --> 00:01:00,160
+As a matter of fact I was born and raised in Warsaw the capital of Poland
+
+16
+00:01:02,720 --> 00:01:04,512
+Conversation for
+
+17
+00:01:05,280 --> 00:01:09,632
+Is that Marjorie Baxter yes it is the new office assistant
+
+18
+00:01:09,888 --> 00:01:10,656
+That's right
+
+19
+00:01:10,912 --> 00:01:12,704
+Is it true she's from Australia
+
+20
+00:01:12,960 --> 00:01:13,984
+That's what I hear
+
+21
+00:01:17,312 --> 00:01:22,432
+Now listen again and write each person's occupation and nationality
+
+22
+00:01:23,968 --> 00:01:25,504
+Conversation one
+
+23
+00:01:26,016 --> 00:01:28,576
+Is that man over there David Egan
+
+24
+00:01:28,832 --> 00:01:34,976
+No that's George that's a very Dave's not here today
+
+25
+00:01:35,232 --> 00:01:36,512
+Really where is he from
+
+26
+00:01:36,768 --> 00:01:38,560
+He's from Marseille in France
+
+27
+00:01:40,864 --> 00:01:42,400
+Conversation to
+
+28
+00:01:43,168 --> 00:01:49,312
+Who's that over there are named Sonia Pereira what did she do they say she's an artist
+
+29
+00:01:49,568 --> 00:01:53,408
+She from around here she's from South Paulo
+
+30
+00:01:53,664 --> 00:01:55,456
+So she's from Brazil
+
+31
+00:01:58,016 --> 00:01:59,808
+Conversation 3
+
+32
+00:02:00,576 --> 00:02:02,112
+Are you from around here
+
+33
+00:02:02,368 --> 00:02:08,512
+No I leaving Miami actually the name is Mark Mark zaleski
+
+34
+00:02:08,768 --> 00:02:09,792
+What do you do
+
+35
+00:02:10,048 --> 00:02:15,936
+I'm an interpreter I work for is BTW you're not from Miami originally though are you
+
+36
+00:02:16,192 --> 00:02:20,800
+As a matter of fact I was born and raised in Warsaw the capital of Poland
+
+37
+00:02:23,360 --> 00:02:25,408
+Conversation for
+
+38
+00:02:25,920 --> 00:02:30,272
+Is that Marjorie Baxter yes it is the new office assistant
+
+39
+00:02:30,528 --> 00:02:31,552
+That's right
+
+40
+00:02:31,808 --> 00:02:33,344
+Is it true she's from Australia
+
+41
+00:02:33,600 --> 00:02:34,880
+That's what I hear

@@ -1,0 +1,135 @@
+1
+00:00:00,256 --> 00:00:02,048
+Listen to infer
+
+2
+00:00:02,304 --> 00:00:06,912
+Now listen to each conversation again and complete each statement
+
+3
+00:00:08,704 --> 00:00:10,240
+Conversation one
+
+4
+00:00:11,264 --> 00:00:17,408
+Mr. Yuma's please call me Sarah Hart okay. Is that your nickname
+
+5
+00:00:17,664 --> 00:00:20,480
+I know it's my first name I don't have a nickname
+
+6
+00:00:20,736 --> 00:00:26,880
+Tell me what's your nationality actually I live in the capital Ankara but my hometown is
+
+7
+00:00:27,136 --> 00:00:32,256
+That's a really beautiful city on the Mediterranean Coast
+
+8
+00:00:32,768 --> 00:00:34,304
+I'm a computer programmer
+
+9
+00:00:37,120 --> 00:00:38,912
+Conversation to
+
+10
+00:00:40,704 --> 00:00:41,472
+Good evening
+
+11
+00:00:41,728 --> 00:00:42,752
+Good evening
+
+12
+00:00:43,008 --> 00:00:45,056
+It's Keiko Nakamura
+
+13
+00:00:45,312 --> 00:00:48,384
+That's right but all my friends call me KK
+
+14
+00:00:48,640 --> 00:00:51,200
+So tell me Miss Nakamura what do you do
+
+15
+00:00:51,456 --> 00:00:55,552
+I'm a graphic designer actually and where are you from
+
+16
+00:00:55,808 --> 00:01:01,696
+Well I'm from Japan I live in Tokyo but I'm originally from Osaka
+
+17
+00:01:04,768 --> 00:01:06,560
+Conversation 3
+
+18
+00:01:08,608 --> 00:01:09,376
+We're talkin with
+
+19
+00:01:09,632 --> 00:01:11,168
+Pilar Rodriguez
+
+20
+00:01:11,680 --> 00:01:13,984
+That's right Pilar Pilar Rodriguez
+
+21
+00:01:14,240 --> 00:01:16,800
+No nickname Pilar
+
+22
+00:01:17,056 --> 00:01:17,568
+Okay
+
+23
+00:01:17,824 --> 00:01:19,616
+So you live in Uruguay right
+
+24
+00:01:20,384 --> 00:01:26,016
+I live there now in Montevideo but I'm actually from Buenos Aires in Argentina
+
+25
+00:01:26,272 --> 00:01:27,808
+And what are you doing Miss Rodriguez
+
+26
+00:01:28,320 --> 00:01:31,904
+I'm an interpreter I work for the Uruguayan government actually
+
+27
+00:01:32,160 --> 00:01:33,696
+Do you travel for your job
+
+28
+00:01:34,208 --> 00:01:40,352
+I do a lot I often go to Buenos Aires Brasilia Santiago Chile
+
+29
+00:01:43,424 --> 00:01:44,960
+Conversation for
+
+30
+00:01:47,264 --> 00:01:53,408
+So your name is Anthony Harris that's right but most people call me by my nickname Tony so it's Tony
+
+31
+00:01:53,664 --> 00:01:56,224
+Harris mr. Harris tell me what you do for a living
+
+32
+00:01:56,480 --> 00:02:02,624
+I'm a salesperson I work at a large electronic store in Chicago and United States so you're American
+
+33
+00:02:02,880 --> 00:02:09,024
+Actually no I'm from Toronto Canada but I've been in Chicago for over 10 years
+
+34
+00:02:09,280 --> 00:02:10,048
+That's right

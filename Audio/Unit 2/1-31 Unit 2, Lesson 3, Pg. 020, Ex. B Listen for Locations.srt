@@ -1,0 +1,355 @@
+1
+00:00:00,256 --> 00:00:03,328
+Look at the map of the Entertainment District of Kingston
+
+2
+00:00:03,840 --> 00:00:08,704
+Listen again and write the number of each place and its location on the map
+
+3
+00:00:09,216 --> 00:00:09,984
+Be careful
+
+4
+00:00:10,240 --> 00:00:13,312
+There are five places but 10 boxes
+
+5
+00:00:14,336 --> 00:00:15,872
+Conversation one
+
+6
+00:00:17,152 --> 00:00:19,456
+Culture Fest this is Amy
+
+7
+00:00:19,968 --> 00:00:21,248
+Hello
+
+8
+00:00:21,504 --> 00:00:27,648
+Can you tell me where the classic film series playing at the Lamont theater
+
+9
+00:00:27,904 --> 00:00:29,184
+Do you know where that is
+
+10
+00:00:29,440 --> 00:00:30,976
+Actually
+
+11
+00:00:31,488 --> 00:00:34,304
+Could you give me the address and directions
+
+12
+00:00:34,560 --> 00:00:37,632
+1175 66th Street
+
+13
+00:00:38,144 --> 00:00:39,936
+Between Central Avenue and Greenway
+
+14
+00:00:40,704 --> 00:00:41,216
+Thanks
+
+15
+00:00:41,984 --> 00:00:46,848
+Zmovies I'll start at 7 right
+
+16
+00:00:47,360 --> 00:00:48,640
+And one more question
+
+17
+00:00:49,152 --> 00:00:50,432
+What's playing tonight
+
+18
+00:00:51,456 --> 00:00:51,968
+Tonight
+
+19
+00:00:52,224 --> 00:00:53,504
+Pets mee6
+
+20
+00:00:54,272 --> 00:00:57,088
+You're in luck tonight there's a double feature
+
+21
+00:00:57,344 --> 00:00:59,904
+Nice to meet you and the 39 steps
+
+22
+00:01:00,160 --> 00:01:02,208
+Two movies for the price of one
+
+23
+00:01:02,464 --> 00:01:03,488
+$10
+
+24
+00:01:05,536 --> 00:01:07,072
+Conversation to
+
+25
+00:01:08,864 --> 00:01:12,960
+Good morning Kingston culture Fest this is Amy may I help you
+
+26
+00:01:13,472 --> 00:01:19,104
+Yes thanks I'm interested in the history of Latin music lecture and concert on May 11th
+
+27
+00:01:19,616 --> 00:01:22,176
+That's at the Natural History Museum isn't it
+
+28
+00:01:22,688 --> 00:01:27,296
+Yes that's right 110 Greenway right across the street from Green Park
+
+29
+00:01:27,552 --> 00:01:29,088
+In the large Auditorium
+
+30
+00:01:29,600 --> 00:01:31,392
+Are there still some seats available
+
+31
+00:01:31,904 --> 00:01:32,928
+Let me check
+
+32
+00:01:33,952 --> 00:01:36,512
+Yes I have some seats available for the matinee
+
+33
+00:01:37,024 --> 00:01:38,560
+Would you like Orchestra or balcony
+
+34
+00:01:39,584 --> 00:01:42,912
+What's the difference in price
+
+35
+00:01:43,168 --> 00:01:48,288
+If you just give me your name you can pick them up at the Museum box office a half hour before the talk
+
+36
+00:01:48,544 --> 00:01:49,312
+Jeffrey
+
+37
+00:01:49,568 --> 00:01:50,336
+That's great
+
+38
+00:01:50,592 --> 00:01:52,384
+I thought that would be really expensive
+
+39
+00:01:52,640 --> 00:01:55,712
+In that case I think your cash receipts
+
+40
+00:01:55,968 --> 00:01:59,040
+Receipts will be in row e seats 10 and 11
+
+41
+00:01:59,552 --> 00:02:01,088
+10 + 11
+
+42
+00:02:01,600 --> 00:02:02,368
+Yes that's right
+
+43
+00:02:03,136 --> 00:02:04,672
+My name is David Duke low
+
+44
+00:02:04,928 --> 00:02:06,720
+And what time is the matinee
+
+45
+00:02:09,792 --> 00:02:11,584
+Conversation 3
+
+46
+00:02:13,376 --> 00:02:18,240
+Good evening this is the Kingston culture Fest box office how can I help you hello
+
+47
+00:02:18,496 --> 00:02:21,824
+I need two tickets to the Ludacris hip-hop concert
+
+48
+00:02:22,080 --> 00:02:22,848
+Which day
+
+49
+00:02:23,616 --> 00:02:25,408
+Friday the 10th please
+
+50
+00:02:25,920 --> 00:02:28,992
+That's shows at 7:30 right
+
+51
+00:02:29,248 --> 00:02:33,856
+We have orchestra seats at $25 and balcony seats at 18
+
+52
+00:02:34,112 --> 00:02:35,392
+Which would you prefer
+
+53
+00:02:35,648 --> 00:02:36,672
+I'll take the balcony
+
+54
+00:02:37,440 --> 00:02:42,560
+Are they good seats
+
+55
+00:02:43,584 --> 00:02:47,680
+Yes those are front row in the center seats 201 and 202
+
+56
+00:02:48,192 --> 00:02:50,240
+I think you'll be very happy with them rate
+
+57
+00:02:50,496 --> 00:02:52,544
+By the way just to be sure
+
+58
+00:02:52,800 --> 00:02:53,568
+What's the address
+
+59
+00:02:54,080 --> 00:02:57,152
+3600 Central Avenue across from the park
+
+60
+00:02:57,408 --> 00:02:59,456
+I'm confused green talk
+
+61
+00:02:59,712 --> 00:03:02,272
+Lemont Park I know what that is
+
+62
+00:03:02,528 --> 00:03:05,344
+Between 71st and 72nd
+
+63
+00:03:05,856 --> 00:03:11,232
+No you're thinking of the sports complex the Kingston concert hall is on the corner of West way
+
+64
+00:03:11,488 --> 00:03:13,280
+Thanks let me give you my name
+
+65
+00:03:15,328 --> 00:03:16,864
+Conversation for
+
+66
+00:03:18,656 --> 00:03:23,520
+Culturefest can I help you yes I need two tickets to The Lion King
+
+67
+00:03:23,776 --> 00:03:27,360
+I just love that play classic
+
+68
+00:03:27,616 --> 00:03:29,152
+Which day would you like to see it
+
+69
+00:03:29,408 --> 00:03:31,200
+Saturday the 11th
+
+70
+00:03:31,968 --> 00:03:34,784
+I'm sorry Saturday sold out
+
+71
+00:03:35,040 --> 00:03:35,808
+What about Sunday
+
+72
+00:03:36,320 --> 00:03:37,088
+Okay
+
+73
+00:03:37,344 --> 00:03:43,488
+Is that playing at the Longmont theater
+
+74
+00:03:46,048 --> 00:03:52,192
+Where exactly is gallery to
+
+75
+00:03:52,704 --> 00:03:55,776
+On Sunday the shows a matinee it starts at 2:30
+
+76
+00:03:56,032 --> 00:03:58,336
+All seats are $50
+
+77
+00:04:00,896 --> 00:04:02,688
+Conversation 5
+
+78
+00:04:04,736 --> 00:04:06,272
+Hello culture Fest
+
+79
+00:04:06,528 --> 00:04:09,088
+Hi I'd like to order tickets for the Picasso lecture
+
+80
+00:04:10,368 --> 00:04:13,952
+Which date please Thursday if that's possible and
+
+81
+00:04:14,208 --> 00:04:15,232
+How much are the tickets
+
+82
+00:04:15,488 --> 00:04:16,512
+Etsy
+
+83
+00:04:17,280 --> 00:04:21,375
+Yes I got space on Thursday all seats are $36
+
+84
+00:04:21,631 --> 00:04:24,191
+If we just confirmed the time that's at 8:30 correct
+
+85
+00:04:24,703 --> 00:04:29,311
+Actually it's at 8 on Thursdays and the lecture is at Kingston Gallery 2
+
+86
+00:04:29,567 --> 00:04:31,103
+Gallery one
+
+87
+00:04:31,359 --> 00:04:34,943
+That's on Greenway across from the Natural History Museum
+
+88
+00:04:35,199 --> 00:04:36,991
+Between 70th and 71st
+
+89
+00:04:37,247 --> 00:04:37,759
+Great

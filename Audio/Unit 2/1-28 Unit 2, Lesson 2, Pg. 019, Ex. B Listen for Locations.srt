@@ -1,0 +1,115 @@
+1
+00:00:00,256 --> 00:00:03,072
+Listen to the conversations about places
+
+2
+00:00:03,584 --> 00:00:07,168
+Write the number of each place in a box on the map
+
+3
+00:00:07,680 --> 00:00:08,448
+Be careful
+
+4
+00:00:08,704 --> 00:00:10,240
+There are three places
+
+5
+00:00:10,496 --> 00:00:12,032
+But seven boxes
+
+6
+00:00:13,312 --> 00:00:14,848
+Conversation one
+
+7
+00:00:15,616 --> 00:00:18,944
+Excuse me I'm looking for the city center do you know what that is
+
+8
+00:00:19,456 --> 00:00:22,016
+The city center let me sink
+
+9
+00:00:22,784 --> 00:00:25,856
+Usher go straight down the street
+
+10
+00:00:26,112 --> 00:00:26,880
+This right
+
+11
+00:00:27,136 --> 00:00:30,720
+Then turn right on Atlantic right on Atlantic
+
+12
+00:00:31,232 --> 00:00:34,816
+Dan go to the corner of Indian and Atlantic
+
+13
+00:00:35,328 --> 00:00:37,888
+The city center is on the right side of the street
+
+14
+00:00:38,400 --> 00:00:39,168
+You can't miss it
+
+15
+00:00:39,424 --> 00:00:39,936
+Thanks
+
+16
+00:00:41,728 --> 00:00:43,520
+Conversation to
+
+17
+00:00:44,288 --> 00:00:47,104
+Excuse me I'm looking for the art museum
+
+18
+00:00:47,616 --> 00:00:49,408
+Actually I'm not from around here
+
+19
+00:00:49,920 --> 00:00:52,224
+But I think that's it right across the street
+
+20
+00:00:52,480 --> 00:00:55,040
+All right I see it now thanks
+
+21
+00:00:56,576 --> 00:00:58,112
+Conversation 3
+
+22
+00:00:59,136 --> 00:01:00,160
+Mam excuse me
+
+23
+00:01:00,416 --> 00:01:06,560
+I'm looking for the Cluny feeder at any theater do you know the address
+
+24
+00:01:06,816 --> 00:01:08,608
+600 Hudson Street
+
+25
+00:01:09,120 --> 00:01:10,912
+Oh yeah I know where that is
+
+26
+00:01:11,168 --> 00:01:13,216
+Walk straight down Bay one block
+
+27
+00:01:13,472 --> 00:01:15,264
+Then turn left on Adriatic
+
+28
+00:01:15,520 --> 00:01:17,824
+Walk to the corner of Hudson and turn left
+
+29
+00:01:18,080 --> 00:01:19,360
+It's right there on the corner

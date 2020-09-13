@@ -1,0 +1,95 @@
+1
+00:00:00,256 --> 00:00:06,400
+Nghe để biết chi tiết lắng nghe những cuộc hội thoại phù hợp với sự kiện và địa điểm
+
+2
+00:00:08,192 --> 00:00:09,728
+Đối thoại một
+
+3
+00:00:11,008 --> 00:00:16,384
+Bạn có rảnh vào ngày chủ nhật lúc 11:30 Nick Hornby sẽ có mặt tại đêm thành phố cửa hàng sách
+
+4
+00:00:16,640 --> 00:00:19,200
+Nick Hornby Tôi yêu cuốn sách của ổng
+
+5
+00:00:19,456 --> 00:00:20,480
+Anh làm gì ở đó buổi tối đó?
+
+6
+00:00:20,736 --> 00:00:25,088
+Chỉ là một cuộc nói chuyện về slam muốn cuốn tiểu thuyết. Bạn có muốn đi không? Chắc chắn rồi.
+
+7
+00:00:26,880 --> 00:00:28,416
+Đối thoại 2
+
+8
+00:00:29,440 --> 00:00:35,584
+chơi ở trung tâm rạp chiếu phim có một phim Marilyn Monroe cũ cho thấy lúc 7:10. Bạn thấy thú vị không?
+
+9
+00:00:35,840 --> 00:00:39,168
+Không thực sự tôi không phải là một fan hâm mộ Marilyn Monroe
+
+10
+00:00:41,472 --> 00:00:43,008
+Đối thoại 3
+
+11
+00:00:43,776 --> 00:00:47,104
+Agamemnon là tại nhà hát trong vòng tròn
+
+12
+00:00:47,360 --> 00:00:48,384
+Có gì gõ của bạc hà trên
+
+13
+00:00:48,640 --> 00:00:50,944
+Người nổi tiếng Greek chơi
+
+14
+00:00:51,200 --> 00:00:55,296
+Buổi biểu diễn này tối nay nếu bạn muốn đi
+
+15
+00:00:55,552 --> 00:00:56,320
+Có lẽ
+
+16
+00:00:57,856 --> 00:00:59,648
+Đối thoại cho
+
+17
+00:01:00,416 --> 00:01:02,720
+Tôi đang trong tâm trạng cho một buổi hòa nhạc tốt
+
+18
+00:01:02,976 --> 00:01:04,512
+chơi tại lễ hội là gì
+
+19
+00:01:05,024 --> 00:01:09,888
+tối nay thứ 5 Boston Symphony Orchestra của Beethoven. Âm thanh tuyệt vời
+
+20
+00:01:10,144 --> 00:01:10,912
+Mấy giờ?
+
+21
+00:01:11,424 --> 00:01:13,472
+7:45 chúng ta hãy làm điều đó
+
+22
+00:01:13,984 --> 00:01:14,496
+Tốt
+
+23
+00:01:14,752 --> 00:01:16,032
+Đó là 6:30 bây giờ
+
+24
+00:01:16,544 --> 00:01:17,824
+Gặp bạn ở đó trong một tiếng đồng hồ

@@ -1,0 +1,160 @@
+1
+00:00:00,256 --> 00:00:04,864
+Nghe các cuộc đàm thoại ghi số phòng cho mỗi khiếu nại
+
+2
+00:00:06,656 --> 00:00:08,192
+Đối thoại một
+
+3
+00:00:09,984 --> 00:00:11,008
+Quầy lễ tân
+
+4
+00:00:11,520 --> 00:00:17,664
+Đây là mr. Ramos có một vấn đề nghiêm trọng với phòng của tôi. Nó có vấn đề gì?
+
+5
+00:00:18,176 --> 00:00:19,200
+Đó là nhà vệ sinh
+
+6
+00:00:19,712 --> 00:00:21,504
+Nó sẽ không dừng tuôn ra
+
+7
+00:00:21,760 --> 00:00:27,392
+Nó sẽ không ngừng xả nước đúng và điều đó làm cho rất nhiều tiếng ồn
+
+8
+00:00:27,648 --> 00:00:29,440
+Bất kỳ vấn đề khác Mr. Ramos
+
+9
+00:00:29,952 --> 00:00:31,488
+Trên thực tế có
+
+10
+00:00:31,744 --> 00:00:33,536
+TV sẽ không bật
+
+11
+00:00:34,304 --> 00:00:36,608
+Oh trời ơi! Ngài đang ở phòng nào?
+
+12
+00:00:36,864 --> 00:00:39,168
+203
+
+13
+00:00:40,960 --> 00:00:42,752
+Đối thoại 2
+
+14
+00:00:44,544 --> 00:00:46,080
+Quầy lễ tân phục là Ahmad
+
+15
+00:00:46,336 --> 00:00:52,480
+Có điều này là Mrs. Johnson trong 732. Tôi có một trường hợp khẩn cấp những loại khẩn cấp
+
+16
+00:00:52,736 --> 00:00:58,880
+Đó là bồn rửa trong phòng tắm bị tắc và có nước khắp sàn nhà và đó không phải là tất cả các máy sấy tóc
+
+17
+00:00:59,136 --> 00:00:59,904
+Bật
+
+18
+00:01:00,160 --> 00:01:06,304
+Tôi rất xin lỗi, đừng lo lắng mrs. Johnson. Tôi sẽ gửi cho các thợ sửa ống nước và thợ điện ngay lập tức tôi chắc chắn rằng họ đến vào sửa tất cả.
+
+19
+00:01:08,608 --> 00:01:10,144
+Đối thoại 3
+
+20
+00:01:12,192 --> 00:01:13,216
+Quầy lễ tân
+
+21
+00:01:13,472 --> 00:01:14,496
+Làm thế nào để tôi giúp bạn?
+
+22
+00:01:14,752 --> 00:01:19,360
+Đây là ông Prentice trong phòng 1517. Tôi có một vấn đề.
+
+23
+00:01:19,616 --> 00:01:22,688
+Vâng thưa ngài. công chúa gì có vẻ là vấn đề
+
+24
+00:01:22,944 --> 00:01:26,016
+Đó là điều hòa không khí nó đóng băng ở đây
+
+25
+00:01:26,784 --> 00:01:28,576
+Các bạn đã thử tắt nó đi
+
+26
+00:01:29,344 --> 00:01:32,160
+Tất nhiên. Đó là lý do tại sao tôi gọi bạn
+
+27
+00:01:32,672 --> 00:01:37,024
+Tôi Mr rất tiếc Prentice. là có bất cứ thứ gì chúng ta có thể giúp bạn với hiện nay
+
+28
+00:01:37,280 --> 00:01:41,632
+Trên thực tế có nhà sản xuất cà phê được thực hiện một âm thanh hài hước
+
+29
+00:01:42,144 --> 00:01:44,192
+Sẽ chăm sóc tất cả mọi thứ
+
+30
+00:01:44,448 --> 00:01:45,472
+Đừng lo lắng
+
+31
+00:01:47,264 --> 00:01:48,800
+Đối thoại 4
+
+32
+00:01:50,848 --> 00:01:54,176
+Hỏi Marlene nói làm thế nào tôi có thể trực tiếp cuộc gọi của bạn?
+
+33
+00:01:54,688 --> 00:01:56,992
+Đây là phòng 608 gây hiểu lầm
+
+34
+00:01:57,504 --> 00:01:59,808
+Xin lỗi. những gì căn phòng bạn đã nói rằng bạn đang ở trong nào?
+
+35
+00:02:00,064 --> 00:02:01,088
+608
+
+36
+00:02:01,600 --> 00:02:03,904
+Chắc chắn làm thế nào tôi có thể giúp bạn
+
+37
+00:02:04,160 --> 00:02:05,952
+Có một vấn đề với tủ lạnh của tôi
+
+38
+00:02:06,208 --> 00:02:07,488
+Không làm việc
+
+39
+00:02:07,744 --> 00:02:12,352
+Có đó là ấm áp đúng tất cả mọi thứ và cửa tủ lạnh sẽ không đóng cửa
+
+40
+00:02:12,608 --> 00:02:15,680
+Tôi xin lỗi, tôi sẽ có một ai đó đến đó ngay lập tức
+

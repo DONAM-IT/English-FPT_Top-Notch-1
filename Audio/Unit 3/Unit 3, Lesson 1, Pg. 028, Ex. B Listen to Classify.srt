@@ -1,0 +1,67 @@
+1
+00:00:00,256 --> 00:00:05,632
+Listen and infer the marital status of the person in each conversation
+
+2
+00:00:05,888 --> 00:00:08,192
+Circle the correct status
+
+3
+00:00:09,216 --> 00:00:11,008
+Conversation one
+
+4
+00:00:12,800 --> 00:00:18,944
+Who are these people in the picture that older couple those are my in-laws
+
+5
+00:00:19,200 --> 00:00:21,504
+Just Like Larry
+
+6
+00:00:23,040 --> 00:00:24,832
+Conversation to
+
+7
+00:00:26,368 --> 00:00:32,512
+These two are a cute couple who are they that's my aunt and that's her ex-husband
+
+8
+00:00:32,768 --> 00:00:35,584
+Ex husband yeah they're not married anymore
+
+9
+00:00:37,376 --> 00:00:38,912
+Conversation 3
+
+10
+00:00:40,704 --> 00:00:46,848
+Is that your sister yes it is her husband
+
+11
+00:00:47,104 --> 00:00:48,384
+That's her fiance
+
+12
+00:00:48,640 --> 00:00:50,432
+So nice
+
+13
+00:00:52,224 --> 00:00:53,760
+Conversation for
+
+14
+00:00:55,552 --> 00:00:57,088
+Who's that in this picture
+
+15
+00:00:57,344 --> 00:00:59,392
+That's my sister and her husband
+
+16
+00:00:59,904 --> 00:01:06,048
+Nice looking couple they were a nice looking couple they thinking about getting divorced
+
+17
+00:01:06,304 --> 00:01:10,912
+That's too bad yeah she's living with my parents right now

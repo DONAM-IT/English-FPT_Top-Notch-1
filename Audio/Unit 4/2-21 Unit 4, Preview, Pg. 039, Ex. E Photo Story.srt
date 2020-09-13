@@ -1,0 +1,43 @@
+1
+00:00:00,256 --> 00:00:03,840
+Đọc và nghe thực phẩm của người đặt hàng trong một nhà hàng
+
+2
+00:00:06,144 --> 00:00:07,168
+Bạn đã sẵn sàng để đặt chưa
+
+3
+00:00:07,424 --> 00:00:12,288
+Hay bạn cần một thời gian nữa tôi nghĩ rằng tôi sẽ bắt đầu với một súp khoai tây
+
+4
+00:00:12,800 --> 00:00:14,592
+Sau đó, tôi sẽ có gà nướng
+
+5
+00:00:15,104 --> 00:00:16,128
+Nó đi kèm cái gì
+
+6
+00:00:16,384 --> 00:00:22,016
+Nó đi kèm với salad và đó cũng là một sự lựa chọn các loại rau tối nay chúng ta có cà rốt hoặc cà chua nướng
+
+7
+00:00:22,528 --> 00:00:24,064
+Tôi muốn các cà rốt vừa lòng
+
+8
+00:00:24,576 --> 00:00:25,856
+Ngày nghĩ thứ hai
+
+9
+00:00:26,112 --> 00:00:27,904
+Có lẽ tôi sẽ có cà chua
+
+10
+00:00:28,160 --> 00:00:28,672
+Chắc chắn
+
+11
+00:00:29,184 --> 00:00:33,280
+Và bất cứ điều gì để uống tôi muốn như nước lấp lánh xin đừng băng

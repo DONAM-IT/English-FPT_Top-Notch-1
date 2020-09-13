@@ -1,0 +1,95 @@
+1
+00:00:00,256 --> 00:00:06,400
+Listen for details listen to the conversations match the event and the place
+
+2
+00:00:08,192 --> 00:00:09,728
+Conversation one
+
+3
+00:00:11,008 --> 00:00:16,384
+Are you free on Sunday at 11:30 Nick Hornby is going to be at the city nights bookstore
+
+4
+00:00:16,640 --> 00:00:19,200
+Nick Hornby I love his books
+
+5
+00:00:19,456 --> 00:00:20,480
+What's he doing there
+
+6
+00:00:20,736 --> 00:00:25,088
+Giving a talk about his novel slam want to go absolutely
+
+7
+00:00:26,880 --> 00:00:28,416
+Conversation two
+
+8
+00:00:29,440 --> 00:00:35,584
+What's playing at the cinema center there's an old Marilyn Monroe movies showing at 7:10.
+
+9
+00:00:35,840 --> 00:00:39,168
+Not really I'm not a Marilyn Monroe fan
+
+10
+00:00:41,472 --> 00:00:43,008
+Conversation 3
+
+11
+00:00:43,776 --> 00:00:47,104
+Agamemnon is at the theater in the circle
+
+12
+00:00:47,360 --> 00:00:48,384
+What type of ...?
+
+13
+00:00:48,640 --> 00:00:50,944
+Famous Greek play
+
+14
+00:00:51,200 --> 00:00:55,296
+This performance tonight. If you want to go
+
+15
+00:00:55,552 --> 00:00:56,320
+Maybe
+
+16
+00:00:57,856 --> 00:00:59,648
+Conversation four
+
+17
+00:01:00,416 --> 00:01:02,720
+I'm in the mood for a good concert
+
+18
+00:01:02,976 --> 00:01:04,512
+What's playing at the festival
+
+19
+00:01:05,024 --> 00:01:09,888
+The Boston Symphony Orchestra Beethoven's 5th tonight. Sounds great
+
+20
+00:01:10,144 --> 00:01:10,912
+What time?
+
+21
+00:01:11,424 --> 00:01:13,472
+at 7:45. Let's do it
+
+22
+00:01:13,984 --> 00:01:14,496
+Well
+
+23
+00:01:14,752 --> 00:01:16,032
+It's at 6:30 now
+
+24
+00:01:16,544 --> 00:01:17,824
+Meet you there in an hour

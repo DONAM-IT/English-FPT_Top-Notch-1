@@ -1,0 +1,26 @@
+1
+00:00:00,256 --> 00:00:03,584
+Đọc và nghe đi ăn tối một ai đó đặt hàng từ một menu
+
+2
+00:00:05,632 --> 00:00:08,448
+Tôi sẽ có mì ống cho thực đơn chính của tôi, xin vui lòng
+
+3
+00:00:08,704 --> 00:00:09,984
+Nó ăn kèm với cái gì?
+4
+00:00:10,240 --> 00:00:12,544
+Nó đi kèm với súp hoặc món salad
+
+5
+00:00:13,312 --> 00:00:17,408
+Những loại súp là gì? súp cà chua hoặc súp thịt gà. 
+
+6
+00:00:17,920 --> 00:00:21,504
+Tôi muốn salad, xin vui lòng. Chắc chắn rồi và Đồ uống là gì?
+
+7
+00:00:22,016 --> 00:00:23,296
+Vui lòng cho tôi ly nước

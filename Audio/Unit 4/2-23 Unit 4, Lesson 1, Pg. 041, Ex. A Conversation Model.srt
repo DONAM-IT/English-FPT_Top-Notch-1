@@ -1,0 +1,23 @@
+1
+00:00:00,256 --> 00:00:04,352
+Đọc và nghe một người nào đó yêu cầu cho một đề nghị nhà hàng
+
+2
+00:00:06,400 --> 00:00:08,448
+Bạn có thể đề nghị một nhà hàng cho buổi tối hôm nay ?
+
+3
+00:00:08,704 --> 00:00:10,752
+Chắc rồi! Bạn đang có tâm trạng gì?
+
+4
+00:00:11,008 --> 00:00:11,776
+Tôi không biết nữa
+
+5
+00:00:12,032 --> 00:00:14,336
+Có lẽ một bánh sandwich. Tôi không đói lắm
+
+6
+00:00:14,592 --> 00:00:19,456
+Trên thực tế có một nơi tuyệt vời ở gần đây. Nó được gọi là Tom. Bạn muốn tôi chỉ đường không?
